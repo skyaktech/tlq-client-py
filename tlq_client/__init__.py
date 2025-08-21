@@ -4,5 +4,5 @@ from .client import TLQClient
 from .exceptions import TLQError, TLQTimeoutError, TLQConnectionError
 from .models import TLQMessage
 
-__version__ = "0.1.1"
+__version__ = "0.2.0"
 __all__ = ["TLQClient", "TLQMessage", "TLQError", "TLQTimeoutError", "TLQConnectionError"]
