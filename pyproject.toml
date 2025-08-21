@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tlq-client"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python client library for TLQ (Tiny Little Queue)"
 authors = [
     {name = "Nebojsa Jakovljevic", email = "nebojsa@skyak.tech"}
